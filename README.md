@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rizame/LeetCode/tree/master/0067-add-binary) |
+| [2551-apply-operations-to-an-array](https://github.com/Rizame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rizame/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/Rizame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rizame/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rizame/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rizame/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Rizame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |

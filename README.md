@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rizame/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rizame/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rizame/LeetCode/tree/master/0066-plus-one) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rizame/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rizame/LeetCode/tree/master/0013-roman-to-integer) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rizame/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Rizame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rizame/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |

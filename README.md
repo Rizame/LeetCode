@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rizame/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rizame/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rizame/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rizame/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -107,8 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rizame/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Rizame/LeetCode/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rizame/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

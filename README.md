@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rizame/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2551-apply-operations-to-an-array](https://github.com/Rizame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rizame/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rizame/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rizame/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rizame/LeetCode/tree/master/0069-sqrtx) |
+| [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Trie
 |  |
 | ------- |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rizame/LeetCode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->

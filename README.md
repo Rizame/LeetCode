@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rizame/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rizame/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rizame/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rizame/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rizame/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rizame/LeetCode/tree/master/0229-majority-element-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rizame/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rizame/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Rizame/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rizame/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rizame/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |

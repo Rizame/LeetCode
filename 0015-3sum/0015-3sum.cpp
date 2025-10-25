@@ -3,25 +3,24 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> res;
         sort(nums.begin(), nums.end());
+        //-4, -1, -1, 0, 1, 2
         for (int i = 0; i < nums.size(); i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
-            vector<vector<int>> temp = twoSum(nums, -nums[i], i);
-            if(!temp.empty()) res.insert(res.end(), temp.begin(), temp.end());
-        }
-        return res;
-    }
-    vector<vector<int>> twoSum(std::vector<int>& nums, int target, int targetId) {
-        std::unordered_map<int, int> seen;
-        vector<vector<int>> res;
-        for (int i = targetId+1; i < nums.size(); ++i) {
-            if(i == targetId) continue;
-            int diff = target - nums[i];
-            if (seen.count(diff)) {
-                res.push_back({nums[seen[diff]], nums[i], -target});
-                while (i + 1 < nums.size() && nums[i] == nums[i + 1]) i++;
+             if (i > 0 && nums[i] == nums[i - 1]) continue;
+            int left = i+1;
+            int right = nums.size()-1;
+            while(left < right){
+                int target = -nums[i];
+                int sum = nums[left] + nums[right];
+                if(sum > target)right--;
+                else if(sum < target) left ++;
+                else {
+                    res.push_back({-target, nums[left], nums[right]});
+                    while(left + 1 < right && nums[left] == nums[left+1]) left++;
+                    while(right - 1 > left && nums[right] == nums[right-1]) right--;
+                    left++;
+                    right--;
+                }
             }
-            seen[nums[i]] = i;
         }
         return res;
     }
